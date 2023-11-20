@@ -315,7 +315,6 @@ service bind9 start
 
 ![image](https://cdn.discordapp.com/attachments/897449980896346166/1176084123819986954/image.png?ex=656d94b1&is=655b1fb1&hm=8c120e7f96146b071434e291892d045043eec57e065c2cdb9bec5727229462a2&)
 
-![image](https://github.com/Caknoooo/Jarkom-Modul-3-IT28-2023/assets/92737767/cb0d99c0-6bf1-46fc-a891-461232d90d75)
 
 ## Soal 2
 >Semua CLIENT harus menggunakan konfigurasi dari DHCP Server. Client yang melalui Switch3 mendapatkan range IP dari [prefix IP].3.16 - [prefix IP].3.32 dan [prefix IP].3.64 - [prefix IP].3.80
@@ -440,7 +439,6 @@ Terakhir jangan lupa untuk restart seluruh client agar dapat melakukan leasing I
 
 ![image](https://cdn.discordapp.com/attachments/897449980896346166/1176083890230808576/image.png?ex=656d947a&is=655b1f7a&hm=7cb8544a4197dc3c1bd1bffe606eff0af2b038ddce46b8a7e28764e40fdd4497&)
 
-![image](https://github.com/Caknoooo/Jarkom-Modul-3-IT28-2023/assets/92737767/8e159176-2123-4e0d-949a-21a8268b7ef7)
 
 
 ## Soal 5
@@ -649,9 +647,6 @@ ab -n 200 -c 10 http://www.granz.channel.IT28.com/
 
 ![Screenshot (1021)](https://cdn.discordapp.com/attachments/897449980896346166/1176085393666478110/image.png?ex=656d95e0&is=655b20e0&hm=6ca913e6517280ad8c8464737d7f1ebc6b04523b9d6b7a1732cfd6014e481c25&)
 
-**Grafik**
-
-![image](https://github.com/Caknoooo/go-gin-clean-template/assets/92671053/5551618b-fb27-4028-915d-f5beff5616d3)
 
 ## Soal 9
 > Dengan menggunakan algoritma Round Robin, lakukan testing dengan menggunakan 3 worker, 2 worker, dan 1 worker sebanyak 100 request dengan 10 request/second, kemudian tambahkan grafiknya pada grimoire. (9)
@@ -684,9 +679,7 @@ ab -n 100 -c 10 http://www.granz.channel.IT28.com/
 
 > Request per second 393.40 [#/sec] (mean)
 
-**Grafik**
 
-![image](https://github.com/Caknoooo/go-gin-clean-template/assets/92671053/48104721-c2a1-4cd5-860b-f40a8f253a47)
 
 ## Soal 10
 > Selanjutnya coba tambahkan konfigurasi autentikasi di LB dengan dengan kombinasi username: “netics” dan password: “ajkyyy”, dengan yyy merupakan kode kelompok. Terakhir simpan file “htpasswd” nya di /etc/nginx/rahasisakita/ 
